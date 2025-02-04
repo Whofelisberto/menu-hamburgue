@@ -2,4 +2,4 @@
 
 ## About:
 
-### - I created my first dropdown menu 
+### - I created my first dropdown menu.
